@@ -1,5 +1,6 @@
 'use strict';
 
+//添加用户模块
 angular.module('myApp.view1.editUser', ['ui.router'])
 
     .config(['$stateProvider', function ($stateProvider) {
